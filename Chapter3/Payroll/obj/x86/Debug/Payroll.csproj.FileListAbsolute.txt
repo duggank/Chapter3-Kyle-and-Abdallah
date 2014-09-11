@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter3-Kyle-and-Abdallah\Chapter3\Payroll\bin\Debug\Payroll.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3-Kyle-and-Abdallah\Chapter3\Payroll\bin\Debug\Payroll.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter3-Kyle-and-Abdallah\Chapter3\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3-Kyle-and-Abdallah\Chapter3\Payroll\obj\x86\Debug\Payroll.pdb
